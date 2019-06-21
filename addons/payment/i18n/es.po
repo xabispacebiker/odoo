@@ -3,6 +3,7 @@
 # * payment
 # 
 # Translators:
+# Xabier Arrabal <social@esteka.com>, 2019
 # Manuel De los Reyes <manuel9410z@gmail.com>, 2018
 # Martin Trigaux, 2018
 # Cristian Salamea <ovnicraft@gmail.com>, 2018
