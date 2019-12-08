@@ -1796,7 +1796,7 @@ msgstr "IMPORTANTE: Reporte de Error del Punto de Venta de Odoo"
 #: model:ir.model.fields,field_description:point_of_sale.field_pos_config__proxy_ip
 #: model_terms:ir.ui.view,arch_db:point_of_sale.pos_config_view_form
 msgid "IP Address"
-msgstr "Dirección IP"
+msgstr "Dirección IP"
 
 #. module: point_of_sale
 #: model:ir.model.fields,help:point_of_sale.field_pos_config__use_existing_lots
@@ -3464,7 +3464,7 @@ msgstr "Escanear vía proxy"
 #: code:addons/point_of_sale/static/src/js/chrome.js:382
 #, python-format
 msgid "Scanner"
-msgstr "Escáner"
+msgstr "Escáner"
 
 #. module: point_of_sale
 #. openerp-web
@@ -4892,7 +4892,7 @@ msgstr "C.P."
 #: code:addons/point_of_sale/static/src/xml/pos.xml:1285
 #, python-format
 msgid "at"
-msgstr "en"
+msgstr "a"
 
 #. module: point_of_sale
 #. openerp-web
